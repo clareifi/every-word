@@ -7,11 +7,19 @@
 	"items": [
 		
 			{
+				"id": "http://clareifi.micro.blog/2026/03/08/currently-reading-the-dark-forest.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780765386694\">The Dark Forest</a> by Cixin Liu 📚</p>\n",
+				"content_text": "Currently reading: [The Dark Forest](https://micro.blog/books/9780765386694) by Cixin Liu 📚\n",
+				"date_published": "2026-03-08T22:08:21-06:00",
+				"url": "https://clareifi.micro.blog/2026/03/08/currently-reading-the-dark-forest.html"
+			},
+			{
 				"id": "http://clareifi.micro.blog/2026/02/11/woke-up-in-elpaso-to.html",
 				
 				"content_html": "<p>Woke up in #ElPaso to this news:</p>\n<p><a href=\"https://apnews.com/live/faa-el-paso-texas-air-space-closed-updates\">apnews.com/live/faa-&hellip;</a></p>\n",
 				"content_text": "Woke up in #ElPaso to this news:\n\n[apnews.com/live/faa-...](https://apnews.com/live/faa-el-paso-texas-air-space-closed-updates)\n",
-				"date_published": "2026-02-11T08:03:29-07:00",
+				"date_published": "2026-02-11T09:03:29-06:00",
 				"url": "https://clareifi.micro.blog/2026/02/11/woke-up-in-elpaso-to.html"
 			},
 			{
@@ -19,7 +27,7 @@
 				
 				"content_html": "<p>The world needs the courage of your voice.</p>\n",
 				"content_text": "The world needs the courage of your voice.\n",
-				"date_published": "2026-02-10T17:26:01-07:00",
+				"date_published": "2026-02-10T18:26:01-06:00",
 				"url": "https://clareifi.micro.blog/2026/02/10/the-world-needs-the-courage.html"
 			},
 			{
@@ -27,7 +35,7 @@
 				
 				"content_html": "<p>51</p>\n",
 				"content_text": "51 \n",
-				"date_published": "2026-02-07T10:34:51-07:00",
+				"date_published": "2026-02-07T11:34:51-06:00",
 				"url": "https://clareifi.micro.blog/2026/02/07/103451.html"
 			}
 	]
